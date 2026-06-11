@@ -27,4 +27,4 @@ I am currently refining my programming skills in C++/C#, HTML, CSS, JavaScript, 
 I am also exploring different Game Engines such as Unity, Unreal, Itch.io, and Gdevelop
 
 ## Contact me through my Socials:
-[ LinkedIn.com/](https://www.linkedin.com/in/ralph-manalastas-ab047424b/) | More to put soon!
+[LinkedIn](https://www.linkedin.com/in/ralph-manalastas-ab047424b/) | [Handshake](https://broward.joinhandshake.com/profiles/htxbbj)) |More to put soon!
